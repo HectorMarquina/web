@@ -1,0 +1,42 @@
+.whatsaap-icon{
+    position:fixed;
+    right: 10px;
+    bottom: 20px;
+}
+
+.whatsaap-icon:hover{
+    position:fixed;
+    right: 10px;
+    bottom: 20px;
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+p{
+    color: blue;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.text-success{
+    color: springgreen;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 40px;
+}
+
+#name{
+    color: green;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text-success:hover{
+    color: rgb(233, 6, 112);
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
